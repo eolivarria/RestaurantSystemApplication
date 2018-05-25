@@ -1,0 +1,10 @@
+/Users/eoa/Projects/RestaurantSystemApplication/RestaurantSystemApplication/obj/Debug/netcoreapp2.0/RestaurantSystemApplication.csproj.CoreCompileInputs.cache
+/Users/eoa/Projects/RestaurantSystemApplication/RestaurantSystemApplication/obj/Debug/netcoreapp2.0/RestaurantSystemApplication.AssemblyInfoInputs.cache
+/Users/eoa/Projects/RestaurantSystemApplication/RestaurantSystemApplication/obj/Debug/netcoreapp2.0/RestaurantSystemApplication.AssemblyInfo.cs
+/Users/eoa/Projects/RestaurantSystemApplication/RestaurantSystemApplication/bin/Debug/netcoreapp2.0/RestaurantSystemApplication.deps.json
+/Users/eoa/Projects/RestaurantSystemApplication/RestaurantSystemApplication/bin/Debug/netcoreapp2.0/RestaurantSystemApplication.runtimeconfig.json
+/Users/eoa/Projects/RestaurantSystemApplication/RestaurantSystemApplication/bin/Debug/netcoreapp2.0/RestaurantSystemApplication.runtimeconfig.dev.json
+/Users/eoa/Projects/RestaurantSystemApplication/RestaurantSystemApplication/bin/Debug/netcoreapp2.0/RestaurantSystemApplication.dll
+/Users/eoa/Projects/RestaurantSystemApplication/RestaurantSystemApplication/bin/Debug/netcoreapp2.0/RestaurantSystemApplication.pdb
+/Users/eoa/Projects/RestaurantSystemApplication/RestaurantSystemApplication/obj/Debug/netcoreapp2.0/RestaurantSystemApplication.dll
+/Users/eoa/Projects/RestaurantSystemApplication/RestaurantSystemApplication/obj/Debug/netcoreapp2.0/RestaurantSystemApplication.pdb

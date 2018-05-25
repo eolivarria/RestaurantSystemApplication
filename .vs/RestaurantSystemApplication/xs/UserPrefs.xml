@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1195840A-9BEE-467A-8F50-10393E72C61F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestaurantSystemApplication/Views/Plate/Create.cshtml">
+    <Files>
+      <File FileName="RestaurantSystemApplication/Views/Shared/_Layout.cshtml" Line="34" Column="70" />
+      <File FileName="RestaurantSystemApplication/Models/Plate.cs" Line="13" Column="49" />
+      <File FileName="RestaurantSystemApplication/Models/Serve.cs" Line="12" Column="21" />
+      <File FileName="RestaurantSystemApplication/RestaurantSystemApplication.csproj" Line="1" Column="1" />
+      <File FileName="RestaurantSystemApplication/Models/RestaurantContext.cs" Line="5" Column="47" />
+      <File FileName="RestaurantSystemApplication/Startup.cs" Line="28" Column="60" />
+      <File FileName="RestaurantSystemApplication/Models/SeedData.cs" Line="95" Column="81" />
+      <File FileName="RestaurantSystemApplication/Program.cs" Line="27" Column="51" />
+      <File FileName="RestaurantSystemApplication/Views/Plate/Index.cshtml" Line="36" Column="19" />
+      <File FileName="RestaurantSystemApplication/Views/Plate/Details.cshtml" Line="28" Column="15" />
+      <File FileName="RestaurantSystemApplication/Views/Plate/Delete.cshtml" Line="29" Column="15" />
+      <File FileName="RestaurantSystemApplication/ViewModels/RestaurantIndexData.cs" Line="8" Column="51" />
+      <File FileName="RestaurantSystemApplication/Models/Restaurant.cs" Line="19" Column="41" />
+      <File FileName="RestaurantSystemApplication/Views/Restaurant/Index.cshtml" Line="11" Column="33" />
+      <File FileName="RestaurantSystemApplication/Views/Restaurant/Create.cshtml" Line="49" Column="19" />
+      <File FileName="RestaurantSystemApplication/Views/Restaurant/Edit.cshtml" Line="50" Column="19" />
+      <File FileName="RestaurantSystemApplication/Controllers/PlateController.cs" Line="162" Column="19" />
+      <File FileName="RestaurantSystemApplication/Views/Plate/Edit.cshtml" Line="36" Column="19" />
+      <File FileName="RestaurantSystemApplication/Controllers/RestaurantController.cs" Line="100" Column="1" />
+      <File FileName="RestaurantSystemApplication/Views/Plate/Create.cshtml" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RestaurantSystemApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
